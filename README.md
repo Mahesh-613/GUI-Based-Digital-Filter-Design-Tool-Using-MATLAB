@@ -46,13 +46,10 @@ Through this project, I gained deeper insights into IIR filter design, frequency
 
 
 
-I would love to hear your feedback and suggestions for future improvements. Feel free to share your thoughts in the comments.
 
 
 
-📌 Detailed Project Documentation \& Source Code:
 
-GitHub Repository: \[Link]
 
 
 
